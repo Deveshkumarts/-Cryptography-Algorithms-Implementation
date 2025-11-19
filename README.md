@@ -67,6 +67,6 @@ CryptoProject/
 ## 📸 Screenshots
 
 | AES Encryption Tab | SHA Hashing Tab | RSA Encryption | RSA Decryption |
-|----------------|----------------|--------------------|-----------------|------------------------|
+|---------------------|------------------|----------------|----------------|
 | ![AES](screenshots/aes_tab.png) | ![SHA](screenshots/sha_tab.png) | ![RSA Encryption](screenshots/rsa_encryption.png) | ![RSA Decryption](screenshots/rsa_decryption.png) |
 
